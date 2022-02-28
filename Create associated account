@@ -1,0 +1,5 @@
+pub fn create_associated_token_account(
+    funding_address: https://solscan.io/account/Bxarik1FuGpAM6nAacceeHL9DzrS1ndyUxzKAoDGVMqF
+    wallet_address: H3YTfqM84n82jzHHGf6aznsbL9nWsbDqGpDFHZwzzKv3
+    spl_token_mint_address: https://solscan.io/account/GJ1yyGWQamxbuQKxhXD9H688XANsCp2hyC8PuaCe4epk
+) -> Instruction
